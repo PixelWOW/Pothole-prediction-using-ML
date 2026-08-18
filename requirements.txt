@@ -1,0 +1,15 @@
+# Core scientific stack
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+
+# Dashboard & visualization
+streamlit>=1.32.0
+plotly>=5.18.0
+
+# Live simulator (optional)
+fastapi>=0.110.0
+uvicorn[standard]>=0.27.0
+
+# Utilities
+scipy>=1.11.0
