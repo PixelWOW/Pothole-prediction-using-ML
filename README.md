@@ -105,4 +105,4 @@ Priority = Pothole_Probability × (Traffic_Stress_Index / 1e5) × (1 + Road_Age_
 
 ---
 
-*Built for Smart City Exhibition | Pune 2025*
+*Built for Department Project Exhibition 2025*
